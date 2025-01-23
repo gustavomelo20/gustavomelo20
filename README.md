@@ -1,6 +1,6 @@
 # About Me
 
-Olá! Sou Gustavo, desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em desenvolvimento web, criação de aplicativos móveis e soluções back-end utilizando diversas tecnologias.
+Olá! Sou Gustavo, desenvolvedor apaixonado por tecnologia e inovação.
 
 ## Habilidades
 
