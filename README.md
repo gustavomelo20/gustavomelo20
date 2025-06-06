@@ -2,7 +2,9 @@
 
 Olá! Sou Gustavo, um desenvolvedor apaixonado por tecnologia e inovação.
 
-![Developer GIF](https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" width="200" alt="Developer GIF" />
+</p>
 
 Sou graduado em Gestão de Tecnologia da Informação pela Universidade Paulista e atualmente estou cursando pós-graduação em **Arquitetura de Software Distribuído** pela PUC. Possuo sólida experiência em desenvolvimento web e sou motivado por entregar soluções inovadoras que fazem a diferença.
 
